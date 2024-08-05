@@ -25,7 +25,7 @@ The WebSocket server side has been deployed using [Render](https://socket-backen
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/SubodhSingh8543/Algowiz-Assignment.git
     ```
 
 2. Navigate to the server-side directory and install dependencies:
