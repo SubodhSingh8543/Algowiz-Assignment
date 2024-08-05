@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, we have developed a WebSocket server and a WebSocket listener. The WebSocket server sends order updates, and the WebSocket listener logs all activities, filters duplicate and redundant data, and shows actions taken like `orderUpdate`, `orderPlaced`, and `orderCanceled`. Additionally, it ensures that only the most recent update is considered every second, ignoring all previous updates within that timeframe.
+In this project, I have developed a WebSocket server and a WebSocket listener. The WebSocket server sends order updates, and the WebSocket listener logs all activities, filters duplicate and redundant data, and shows actions taken like `orderUpdate`, `orderPlaced`, and `orderCanceled`. Additionally, it ensures that only the most recent update is considered every second, ignoring all previous updates within that timeframe.
 
 ## Tech Stack
 
