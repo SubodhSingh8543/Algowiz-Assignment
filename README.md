@@ -1,4 +1,4 @@
-# Project Title: Algowiz WebSocket Assignment
+# Algowiz WebSocket Assignment
 
 ## Description
 
